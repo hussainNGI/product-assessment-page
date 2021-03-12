@@ -1,0 +1,11 @@
+Notes / observations
+
+1) I didn't get any link / button into the design file to navigate the next steps. so I just create the placeholder for Step 2 and step 3.
+
+2) Designer used many shades of black and gray. It's hard to pick exact color code from JPEG. so I used two colors to design it.
+
+3) As we have JPEG so we can't extract the font family so I used similar Google Fonts Family.
+
+4) For the icons I am using the fontawesome CDN. if you provide the icons source then I will replace with them.
+
+5) Location Pin image is blur right now as we extract the image from JPEG. we can update the image once we got source file in .psd, .xd, zeplin or figma.
